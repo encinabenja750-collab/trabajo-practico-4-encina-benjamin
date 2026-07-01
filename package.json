@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,14 +14,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/encinabenja750-collab/trabajo-practico-4-encina-benjamin/issues"
   },
-  "homepage": "https://github.com/encinabenja750-collab/trabajo-practico-4-encina-benjamin#readme",
-  "dependencies": {
-    "express": "^5.2.1",
-    "mysql2": "^3.22.5",
-    "sequelize": "^6.37.8"
-  }
+  "homepage": "https://github.com/encinabenja750-collab/trabajo-practico-4-encina-benjamin#readme"
 }
